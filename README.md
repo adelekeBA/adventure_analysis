@@ -65,6 +65,18 @@ Product Category Contribution to total profit
 
 Interactive Filters for Location, Date, and Product Type
 
+## 📷 Dashboard Previews
+
+### 🔹 Overall Sales Performance Dashboard
+![Sales Performance Dashboard](./Overview.png)
+
+### 🔹 Regional and Product-Level Insights
+![Product and Region Analysis](./Product.png)
+
+### 🔹 Profitability and Top Contributors
+![Profitability Dashboard](./SalesPerson.png)
+
+
 ## 🧪 Strategic Recommendations
 Strategy	Description
 🎯 Focus Efforts	Allocate resources to top 20% of products/regions driving 80% of profit
